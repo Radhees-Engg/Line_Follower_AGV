@@ -9,7 +9,7 @@ This project is an **Automated Guided Vehicle (AGV)** that follows a path using 
 - IR sensor-based line following
 - Arduino Uno + L298N motor driver
 - Simple and scalable design
-- 
+ 
 ## Components Used
 - Arduino Uno
 - IR sensors
