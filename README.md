@@ -15,7 +15,6 @@ This project is an **Automated Guided Vehicle (AGV)** that follows a path using 
 - IR sensors
 - L298N Motor Driver
 - DC Motors
-- Chassis
 
 ## Demo Video 🎥
 👉 [Watch on LinkedIn]()
