@@ -17,7 +17,7 @@ This project is an **Automated Guided Vehicle (AGV)** that follows a path using 
 - DC Motors
 
 ## Demo Video 🎥
-👉 [Watch on LinkedIn](www.linkedin.com/in/radhees-bala-2a08652b4)
+👉 www.linkedin.com/in/radhees-bala-2a08652b4
 
 ## Future Enhancements
 - Self-balancing robot using MPU6050
